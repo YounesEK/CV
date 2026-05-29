@@ -50,7 +50,7 @@ const CV_DATA = {
       duration: "1 año 11 meses",
       location: "",
       highlights: [
-        "Prospección de zonas y captación de clientes; media de 20 clientes captados por semana.",
+        "Prospección de zonas y captación de clientes; media de 20 clientes captados por mes.",
         "Seguimiento de cartera, activación de cuentas y contratación de productos bancarios.",
         "En plantilla como comercial y administrativo.",
       ],
@@ -76,7 +76,7 @@ const CV_DATA = {
       duration: "1 año",
       location: "",
       highlights: [
-        "Prospección de zonas y captación de clientes; 100 clientes captados en un solo fin de semana.",
+        "Prospección de zonas y captación de clientes; media de 20 clientes captados por mes.",
         "Seguimiento de cartera, activación de cuentas y contratación de productos bancarios.",
       ],
     },
