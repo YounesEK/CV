@@ -36,7 +36,7 @@ const CV_DATA = {
       duration: "11 años 11 meses",
       location: "Multicontinental (Asia, África, Europa)",
       highlights: [
-        "Compra y venta mayorista B2B de teléfonos móviles nuevos y usados, más de 20.000 dispositivos gestionados.",
+        "Compra y venta mayorista B2B de teléfonos móviles nuevos y usados, gestionando operaciones de gran volumen de forma recurrente.",
         "Importación multicontinental desde Asia, África y Europa, con gestiones de tránsito aduanero.",
         "Fiscalidad intracomunitaria e internacional y registro de operaciones en importaciones fuera de la UE.",
         "Control logístico y trazabilidad de miles de dispositivos: ubicación, stock y distribución.",
@@ -50,7 +50,7 @@ const CV_DATA = {
       duration: "1 año 11 meses",
       location: "",
       highlights: [
-        "Prospección de zonas y captación de clientes; 50 clientes captados.",
+        "Prospección de zonas y captación de clientes; media de 20 clientes captados por semana.",
         "Seguimiento de cartera, activación de cuentas y contratación de productos bancarios.",
         "En plantilla como comercial y administrativo.",
       ],
@@ -76,7 +76,7 @@ const CV_DATA = {
       duration: "1 año",
       location: "",
       highlights: [
-        "Prospección de zonas y captación de clientes; 20 clientes captados.",
+        "Prospección de zonas y captación de clientes; 100 clientes captados en un solo fin de semana.",
         "Seguimiento de cartera, activación de cuentas y contratación de productos bancarios.",
       ],
     },
@@ -94,9 +94,6 @@ const CV_DATA = {
 
   // --- Certifications ---
   certifications: [
-    { name: "Introduction to Cybersecurity", issuer: "CISCO" },
-    { name: "Data Analytics Essentials", issuer: "CISCO" },
-    { name: "Scrum Foundation Professional (SFPC)", issuer: "CertiProf" },
     { name: "PRL Online 20 horas", issuer: "Prevención de Riesgos Laborales" },
     { name: "Carretillero en vigor", issuer: "Certificación oficial" },
     { name: "Carnet de conducir tipo B", issuer: "" },
